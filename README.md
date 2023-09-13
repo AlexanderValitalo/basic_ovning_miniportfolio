@@ -1,2 +1,2 @@
-# my_portfolio
+# basic_ovning_miniportfolio
 Alexander Välitalos Portfolio
